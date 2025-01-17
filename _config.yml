@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "JellyCoding"
   avatar           : "/img/Jelly_Logo.png"
-  bio              : "샘플블로그입니다."
+  bio              : "샘플블로그입니다..."
   location         : "Somewhere in Korea"
   email            :
   links:
@@ -247,5 +247,5 @@ defaults:
       share: true
       related: true
       show_data: true
-      
+
 date_format: "%Y-%m-%d"      
