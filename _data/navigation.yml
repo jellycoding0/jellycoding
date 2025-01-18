@@ -5,6 +5,14 @@ main:
 
   - title: "Taggg"
     url: /tags/
+
+docs:
+  - title: "대목차ㅏ"
+    children:
+    - title: :"Categoryyy"
+      url: /categories/
+    - title: :"Tagggg"
+      url: /tags/    
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
