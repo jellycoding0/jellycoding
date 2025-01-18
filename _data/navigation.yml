@@ -3,6 +3,8 @@ main:
   - title: "Categoruuu"
     url: /categories/
 
+  - title: "Taggg"
+    url: /tags/
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
