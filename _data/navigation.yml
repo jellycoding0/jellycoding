@@ -1,10 +1,16 @@
 # main links
 main:
-  - title: "Categoruuu"
+  - title: "카테고리_nav"
     url: /categories/
+
+  - title: "Git-Blog"
+    url: /gitblog/
 
   - title: "Taggg"
     url: /tags/
+
+
+
 
 docs:
   - title: "대목차ㅏ"
@@ -15,12 +21,4 @@ docs:
       url: /tags/    
     - title: :"Git-Blog"
       url: /gitblog/     
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  
