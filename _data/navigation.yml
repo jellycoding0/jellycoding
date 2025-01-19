@@ -3,8 +3,8 @@ main:
   - title: "카테고리"
     url: /categories/
 
-  # - title: "Git-Blog"
-  #   url: /categories/gitblog/
+  - title: "Search"
+    url: /search/
 
   # - title: "Taggg"
   #   url: /tags/
