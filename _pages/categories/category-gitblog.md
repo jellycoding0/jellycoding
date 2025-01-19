@@ -1,7 +1,7 @@
 ---
 title: "gitblog title"
 layout: archive
-permalink: jellycoding/categories/Git-Blog
+permalink: /jellycoding/categories/blog
 author_profile: true
 sidebar_main: true
 ---

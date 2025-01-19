@@ -1,7 +1,7 @@
 ---
 title: "Git & Github"
 layout: archive
-permalink: jellycoding/categories/git
+permalink: /jellycoding/categories/git
 author_profile: true
 sidebar_main: true
 ---
