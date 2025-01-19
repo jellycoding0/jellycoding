@@ -14,10 +14,10 @@ main:
 docs:
   - title: "대목차ㅏ"
     children:
-    - title: :"categorrr"
+    - title: :카테고리
       url: /categories/
-    - title: :"Tagggg"
+    - title: :Tagggg
       url: /tags/    
-    - title: :"Git-Blog"
-      url: /categories/gitblog/ 
+    # - title: :Git-Blog
+    #   url: /categories/gitblog/ 
   
