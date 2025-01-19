@@ -1,5 +1,5 @@
 ---
-title: "category_page"
+title: "category_page(archive)"
 layout: categories
 permalink: /categories/
 author_profile: true
