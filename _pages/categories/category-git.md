@@ -1,10 +1,10 @@
 ---
 title: "Git & Github"
 layout: archive
-permalink: /jellycoding/categories/git
+permalink: categories/git
 author_profile: true
 sidebar_main: true
 ---
 
-{% assign posts = site.categories.Git %}
+{% assign posts = site.categories.Gitt %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
