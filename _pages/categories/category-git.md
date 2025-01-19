@@ -1,12 +1,10 @@
 ---
-title: "C++ 프로그래밍"
+title: "Git & Github"
 layout: archive
 permalink: categories/git
 author_profile: true
 sidebar_main: true
 ---
 
-{% raw %}
 {% assign posts = site.categories.Git %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
-{% endraw %}
+{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
