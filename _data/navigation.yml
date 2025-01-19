@@ -11,13 +11,13 @@ main:
 
 
 
-docs:
-  - title: "대목차ㅏ"
-    children:
-    - title: :카테고리
-      url: /categories/
-    - title: :Tagggg
-      url: /tags/    
-    # - title: :Git-Blog
-    #   url: /categories/gitblog/ 
+# docs:
+#   - title: "대목차ㅏ"
+#     children:
+#     - title: 카테고리
+#       url: /categories/
+#     - title: Tagggg
+#       url: /tags/    
+#     # - title: :Git-Blog
+#     #   url: /categories/gitblog/ 
   
