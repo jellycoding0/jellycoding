@@ -1,5 +1,5 @@
 ---
-title: "categoryy"
+title: "category_page"
 layout: categories
 permalink: /categories/
 author_profile: true

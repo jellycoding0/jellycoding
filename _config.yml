@@ -227,6 +227,11 @@ gitblog_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+nav:
+  - name: "홈"
+    link: /
+  - name: "블로그"
+    link: /categories/gitblog/
 
 # HTML Compression
 # - https://jch.penibelst.de/
