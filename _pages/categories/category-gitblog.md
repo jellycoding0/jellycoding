@@ -2,7 +2,6 @@
 title: "gitblog title"
 layout: archive
 permalink: categories/git/
-# permalink: /jellycoding/categories/blog
 author_profile: true
 sidebar_main: true
 ---
