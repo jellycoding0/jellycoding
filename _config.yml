@@ -8,7 +8,7 @@ title                    : "젤리코딩 JellyCoding"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JellyCoding"
-description              : "로봇과 코딩을 젤리코딩"
+description              : "로봇과 코딩은 젤리코딩"
 url                      : "https://jellycoding.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "JellyCoding"
   avatar           : "/img/Jelly_Logo.png"
-  bio              : "샘플블로그입니다..."
+  bio              : "로봇과 코딩은 젤리코딩"
   location         : "Somewhere in Korea"
   email            :
   links:
