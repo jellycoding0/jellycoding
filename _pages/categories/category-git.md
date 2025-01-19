@@ -1,12 +1,12 @@
 ---
-title: "git"
+title: "C++ 프로그래밍"
 layout: archive
-permalink: categories/git
+permalink: categories/cpp
 author_profile: true
 sidebar_main: true
 ---
 
 {% raw %}
-{% assign posts = site.categories.git %}
-{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
+{% assign posts = site.categories.Cpp %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 {% endraw %}

@@ -1,7 +1,7 @@
 ---
 title: "gitblog title"
 layout: archive
-permalink: categories/gitblog
+permalink: categories/Git-Blog
 author_profile: true
 sidebar_main: true
 ---
