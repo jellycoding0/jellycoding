@@ -212,9 +212,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-gitblog_archive:
-  type: liquid
-  path: /gitblog/
+
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
