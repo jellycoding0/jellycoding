@@ -3,11 +3,11 @@ main:
   - title: "카테고리_nav"
     url: /categories/
 
-  - title: "Git-Blog"
-    url: /categories/gitblog/
+  # - title: "Git-Blog"
+  #   url: /categories/gitblog/
 
-  - title: "Taggg"
-    url: /tags/
+  # - title: "Taggg"
+  #   url: /tags/
 
 
 
