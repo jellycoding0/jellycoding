@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "카테고리_nav"
+  - title: "카테고리"
     url: /categories/
 
   # - title: "Git-Blog"
