@@ -230,7 +230,7 @@ gitblog_archive:
 nav:
   - name: "홈"
     link: /
-  - name: "Git-Blog"
+  - name: "Git-Blog(config.yml)"
     link: /categories/gitblog/
 
 # HTML Compression
