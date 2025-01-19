@@ -226,11 +226,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-nav:
-  - name: "홈"
-    link: /
-  - name: "Git-Blog(config.yml)"
-    link: /categories/gitblog/
+# nav:
+#   - name: "홈"
+#     link: /
+#   - name: "Git-Blog(config.yml)"
+#     link: /categories/gitblog/
 
 # HTML Compression
 # - https://jch.penibelst.de/
