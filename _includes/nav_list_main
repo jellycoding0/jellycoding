@@ -9,7 +9,7 @@
       </li> {% endcomment %}
 
       <li>
-        <span class="nav__sub-title">C/C++/C#</span>
+        <span class="nav__sub-title">목차이지뭐야야</span>
 
             <ul>
                 {% for category in site.categories %}

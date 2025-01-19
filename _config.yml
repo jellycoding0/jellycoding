@@ -10,7 +10,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "JellyCoding"
 description              : "로봇과 코딩은 젤리코딩"
 url                      : "https://jellycoding.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/jellycoding" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -214,17 +214,17 @@ tag_archive:
   path: /tags/
 
 
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 nav:
   - name: "홈"
