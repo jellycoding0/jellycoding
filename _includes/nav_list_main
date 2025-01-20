@@ -10,7 +10,7 @@
 
       <li>
 
-        <span class="nav__sub-title">로봇봇지뭐야야</span>
+        <span class="nav__sub-title" style="color: rgb(169, 81, 209);">로봇</span>
 
             <ul>
                 {% for category in site.categories %}
@@ -20,7 +20,7 @@
                 {% endfor %}
             </ul>
 
-            <span class="nav__sub-title" style="color: rgb(209, 81, 160);">코딩딩지뭐야야</span>
+        <span class="nav__sub-title" style="color: rgb(169, 81, 209);">코딩</span>
 
             <ul>
                 {% for category in site.categories %}
@@ -41,7 +41,7 @@
 
 
 
-        <span class="nav__sub-title">기타이지모야야</span>
+        <span class="nav__sub-title  style="color: rgb(169, 81, 209);">기타</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Blog" %}
