@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Blog] Minimal Mistakes 구조조"
+title: "[Blog] Minimal Mistakes 구조"
 
 categories:
   - Blog
