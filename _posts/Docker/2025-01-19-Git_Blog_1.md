@@ -7,7 +7,7 @@ categories:
 
 toc: true
 
-author_profile: false #왼쪽에 떠있는거 끄기
+# author_profile: false #왼쪽에 떠있는거 끄기
 
 toc_sticky: true # 목차고정
 toc_label: 목차
