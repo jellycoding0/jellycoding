@@ -41,7 +41,7 @@
 
 
 
-        <span class="nav__sub-title  style="color: rgb(169, 81, 209);">기타</span>
+            <span class="nav__sub-title" style="color: rgb(169, 81, 209);">기타</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Blog" %}
