@@ -64,7 +64,7 @@ Minimal Mistakes는 Jekyll 기반 블로그 테마로, 디렉터리 구조와 �
   - 📘video.html: 유튜브, 비메오 비디오 삽입
   - 예시: 유튜브 영상 삽입
     ```bash
-    {% include video id="XsxDH4HcOWA" provider="youtube" %}
+    include video id="XsxDH4HcOWA" provider="youtube" 
     ```
 
 
