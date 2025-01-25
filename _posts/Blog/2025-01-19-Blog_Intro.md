@@ -16,45 +16,8 @@ toc_icon: "fas fa-wine-glass"
 ---
 
 
+[text](https://github.com/mmistakes/minimal-mistakes)
 
-안녕하세요! 오늘은 Git과 GitHub를 활용해서 나만의 블로그를 만드는 방법을 아주 쉽게 소개하려고 해요. 이 글은 Git을 처음 접하는 분들을 위한 것이니 걱정하지 마세요. 차근차근 따라해 보세요!
 
-## 1. Git과 GitHub란?
-- **Git**: 코드 버전 관리 시스템으로, 여러 사람이 협업할 때 코드 변경 사항을 추적하고 관리할 수 있게 도와줘요.
-- **GitHub**: Git을 기반으로 한 코드 호스팅 플랫폼으로, 프로젝트를 인터넷에서 쉽게 공유하고 협업할 수 있도록 도와줘요.
-
-## 2. Git Blog란?
-**Git Blog**는 Git과 GitHub를 이용해 나만의 블로그를 만드는 것입니다. 여러 오픈소스 블로그 템플릿이 GitHub에 공개되어 있으므로, 그 템플릿을 복제(fork)하여 쉽게 블로그를 시작할 수 있어요.
-
-## 3. Minimal Mistakes Fork하기
-여기서는 `Minimal Mistakes`라는 블로그 템플릿을 사용할 거예요. `Minimal Mistakes`는 깔끔하고 간단한 블로그 디자인을 제공해요.
-
-### 3.1. GitHub 계정 만들기
-먼저 [GitHub](https://github.com)에 접속하여 계정을 만들어주세요. 이미 계정이 있다면, 로그인해주세요.
-
-### 3.2. Minimal Mistakes 템플릿 Fork하기
-1. [Minimal Mistakes GitHub 저장소](https://github.com/mmistakes/minimal-mistakes)로 이동합니다.
-2. 페이지 오른쪽 상단에 있는 **Fork** 버튼을 클릭하여 템플릿을 내 GitHub 계정으로 복사합니다.
-3. 이제 내 GitHub에 `minimal-mistakes`라는 저장소가 생성되었습니다.
-
-### 3.3. 내 GitHub 저장소 설정하기
-1. 내 저장소 페이지로 가서 `Settings` 탭을 클릭합니다.
-2. "GitHub Pages" 섹션을 찾아서, **Source**를 `main` 브랜치로 설정합니다.
-3. 이제 GitHub이 자동으로 블로그를 빌드하고, `https://username.github.io/minimal-mistakes/`와 같은 주소에서 블로그를 확인할 수 있게 됩니다.
-
-## 4. 블로그 내용 수정하기
-이제 템플릿을 내 블로그에 맞게 수정해볼 차례입니다.
-
-### 4.1. `_config.yml` 파일 수정하기
-블로그의 설정은 `_config.yml` 파일에서 관리됩니다. 이 파일을 수정하여 블로그 제목, 설명, 내 정보를 설정할 수 있어요.
-
-1. 저장소에서 `_config.yml` 파일을 찾아 클릭합니다.
-2. 파일을 편집할 수 있는 화면이 열리면, 아래와 같이 내용을 수정합니다.
-
-```yaml
-title: "나만의 블로그"  # 블로그 제목
-description: "Git과 GitHub로 만든 블로그"  # 블로그 설명
-url: "https://username.github.io"  # 내 GitHub Pages URL
-author:
-  name: "내 이름"  # 내 이름
-  email: "email@example.com"  # 내 이메일
+사진편하게 넣는법
+Issue
